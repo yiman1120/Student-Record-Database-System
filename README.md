@@ -1,12 +1,7 @@
 # Student-Record-Database-System
 
-<table>
-  <tr>
-    <td>Requirement:</td>
-  </tr>
- 
+Requirement:<br>
 MongoDB (Mongoose)<br>
 Node.js<br>
 Express.js<br>
 RESTful API
-</table>
