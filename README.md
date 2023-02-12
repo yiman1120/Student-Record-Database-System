@@ -3,8 +3,10 @@
 <table>
   <tr>
     <td>Requirement:</td>
-MongoDB (Mongoose)
-Node.js<br>
-Express.js
-RESTful API
+  </tr>
  </table>
+MongoDB (Mongoose)<br>
+Node.js<br>
+Express.js<br>
+RESTful API
+
