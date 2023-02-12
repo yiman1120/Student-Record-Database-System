@@ -4,7 +4,7 @@
   <tr>
     <td>Requirement:</td>
 MongoDB (Mongoose)
-Node.js/n
+Node.js</n>
 Express.js
 RESTful API
  </table>
